@@ -13,5 +13,11 @@ The Django Book 配套实例练习实践
 * books 新建的APP，包含模型文件models.py，程序数据库字段均从该文件建模
 * contact 自建模块，包含contact相关view/template/form，该文件夹及文件均为自己创建并添加import
 
+### 文件列表
+
+  为了便于理解工程及模块之间的关系，打印文件树如下
+
+![工程文件树](file_tree.png "文件树")
+
 ---
 *powered by MarkDown*
